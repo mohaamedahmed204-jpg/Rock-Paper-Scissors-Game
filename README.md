@@ -20,13 +20,13 @@ A clean, interactive console-based Stone Paper Scissors game written in C++. Pla
 
 ## Concepts Applied
 
-- Enumerations (`enum`)
-- Structures (`struct`)
-- Functions and modular design
-- Random number generation
-- Loop control
-- Conditional logic
-- Basic console UI
+- ✅ Enumerations (`enum`)
+- ✅ Structures (`struct`)
+- ✅ Functions and modular design
+- ✅ Random number generation
+- ✅ Loop control
+- ✅ Conditional logic
+- ✅ Basic console UI
 
 ---
 
