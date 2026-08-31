@@ -1,4 +1,4 @@
-# ✊✋✌️ Rock Paper Scissors — C++ Console Game
+# ✊✋✌️ Rock Paper Scissors — C++ Console Game.      
 
 A clean, interactive console-based Stone Paper Scissors game written in C++. Play multiple rounds against the computer, track your score, and see who wins the final match!
 
