@@ -1,8 +1,3 @@
-<a href="https://github.com/mohaamedahmed204-jpg/Rock-Paper-Scissors-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohaamedahmed204-jpg&repo=Rock-Paper-Scissors-Game&theme=rose" alt="Rock Paper Scissors Game" />
-</a>
-
-
 # ✊✋✌️ Rock Paper Scissors — C++ Console Game.      
 
 A clean, interactive console-based Stone Paper Scissors game written in C++. Play multiple rounds against the computer, track your score, and see who wins the final match!
